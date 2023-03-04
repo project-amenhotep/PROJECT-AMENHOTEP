@@ -1,4 +1,4 @@
-<img src="PROJECT AMENHOTEP.png" style="width:1080px;"/>
+<img src="Gift-of-the-superior/PROJECT AMENHOTEP.png" style="width:1080px;"/>
 
 <h1 align=center><b> 𓂀Project-Amenhotep𓂀 </b></h1>
 
